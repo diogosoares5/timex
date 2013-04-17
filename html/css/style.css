@@ -1,0 +1,39 @@
+.atendimento{width: 948px; font-family: "roboto";background: url("../images/bg-topo-content.jpg") no-repeat scroll 0 0 #000000;color: #fff;overflow: hidden;}
+.atendimento .title2{font-family: "roboto";font-size: 20px;font-weight: bold;margin: 0px 0 5px 21px;text-transform: uppercase;}
+.atendimento .title3{font-family: "roboto";font-size: 16px;font-weight: bold;color: #bbbbbb;}
+.atendimento .box{width: 397px;float: left;margin-left:30px;margin-top: 30px;}
+.atendimento .box .boxcontent{border: 1px solid #4d4d4d; margin-top: 10px; height: 142px;}
+.atendimento .box .boxcontent ul{margin:10px;}
+.atendimento .box .boxcontent .faleconosco li{font-size: 14px;color: #505050; display: inline-block;vertical-align: top;width: 153px;background: url("../images/sprite-buttons.png") no-repeat;}
+.atendimento .box .boxcontent .faleconosco .chat a{background: url("../images/sprite-buttons.png") no-repeat; background-position: 35px -957px;display: block;padding: 10px 10px 13px 0;text-indent: -9999px;margin-left:-4px;margin-top: 10px; transition: all .5s; -webkit-transition: all .5s; -moz-transition: all .5s; -o-transition: all .5s; opacity: .8;}
+.atendimento .box .boxcontent .faleconosco .chat a:hover{ opacity: 1;}
+.atendimento .box .boxcontent .faleconosco .chat{background-position: -114px -586px;width: 195px;margin-left: 22px;margin-top: 10px;}
+.atendimento .box .boxcontent .faleconosco li h4{margin-left: 50px}
+.atendimento .box .boxcontent .faleconosco .tel{background-position: -114px -769px;margin-top: 10px;}
+/*ie 7*/
+.atendimento .box .boxcontent .faleconosco .tel{float: left;}
+.atendimento .box .boxcontent .faleconosco .chat{float: right; }
+/**/
+.atendimento .box .boxcontent .faleconosco .tel ul{margin-left: 50px;}
+.atendimento .box .boxcontent .faleconosco .tel ul li{background: none;font-family: "roboto" ;font-size: 20px;color: #505050;margin-bottom: 3px}
+.atendimento .box .boxcontent .faleconosco li:first-child{display: block;width: auto;text-align: left;background: none;margin-bottom: 10px;}
+.atendimento .box .boxcontent .duvidas li {margin: 10px 0 0 10px;display: block;font-size: 14px; color: #fff;text-decoration: none;}
+.atendimento .box .boxcontent .duvidas li a{font-size: 14px; color: #505050;text-decoration: none; transition: all .5s; -webkit-transition: all .5s; -moz-transition: all .5s; -o-transition: all .5s;}
+.atendimento .box .boxcontent .duvidas li a:hover{color: #b6100c;}
+.atendimento .box .boxcontent .duvidas li:first-child {margin-top: 0;font-family: "times new roman";}
+.atendimento .box .boxcontent .duvidas li span{background: #b5010c;font-size: 12px;margin-right: 10px;padding: 1px 6px;text-align: center;}
+.atendimento .box2 {background: url("../images/sprite-buttons.png") no-repeat;}
+.atendimento .box2 {display: inline-block;vertical-align: top;width: 325px;margin-bottom: 25px;margin-top: 50px;margin-left: 30px;}
+.atendimento .box2 a{font-size: 14px; color: #505050;text-decoration: none; transition: all .5s; -webkit-transition: all .5s; -moz-transition: all .5s; -o-transition: all .5s;}
+.atendimento .box2 a:hover{color: #b6100c;}
+.atendimento .box2 ul li{margin-top: 10px;}
+.atendimento .box2 ul li:first-child{margin-top: 29px;}
+.atendimento .box2 .title2{margin-left: 69px;margin-top: 13px;}
+.atendimento .box2 ul{margin: 30px 0 0 69px;}
+.atendimento .box2 .politica li:first-child{margin-top: 2px;}
+.atendimento .box2{background-position:-102px -182px;}
+.atendimento .cadastro{background-position:-102px 0; width: 254px;}
+.atendimento .troca{background-position:-102px -364px;width: 270px;margin-left: 30px}
+.atendimento .troca ul{margin-top: 16px}
+.atendimento .troca ul li:first-child {margin-top: 0}
+.atendimento .troca .title2{margin-top: 5px}
